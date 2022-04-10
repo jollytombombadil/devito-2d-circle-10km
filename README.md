@@ -1,3 +1,3 @@
 # devito-2d-circle-10km
 
-mini project final code
+mini project final code, (ran on kaggle)
